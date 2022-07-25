@@ -1,2 +1,9 @@
-http://example.com/2022/07/25/hello-world/
-http://example.com/
+https://derder1.github.io/2022/07/01/java%E7%8B%82%E7%A5%9E/
+https://derder1.github.io/2022/07/24/%E6%B3%A8%E8%A7%A3%E5%92%8C%E5%8F%8D%E5%B0%84/
+https://derder1.github.io/2022/07/25/%E5%A4%9A%E7%BA%BF%E7%A8%8B/
+https://derder1.github.io/2022/04/05/java%E7%AC%94%E8%AE%B0/
+https://derder1.github.io/
+https://derder1.github.io/tags/java/
+https://derder1.github.io/tags/%E8%93%9D%E6%A1%A5%E6%9D%AF/
+https://derder1.github.io/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/
+https://derder1.github.io/tags/%E6%B3%A8%E8%A7%A3%E5%8F%8D%E5%B0%84/
