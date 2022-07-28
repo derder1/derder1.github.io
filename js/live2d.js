@@ -11,8 +11,8 @@ addEventListener("DOMContentLoaded", function () {
         mobile: false,
       },
       {
-        right: "-200px",
-        bottom: "-200px",
+        right: "0px",
+        bottom: "0px",
         basePath:
           "https://fastly.jsdelivr.net/gh/alg-wiki/AzurLaneL2DViewer@gh-pages/assets",
         role: "bisimai_2",
