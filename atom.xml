@@ -62,7 +62,7 @@
     <link href="https://derder1.github.io/2022/07/29/javaweb/"/>
     <id>https://derder1.github.io/2022/07/29/javaweb/</id>
     <published>2022-07-29T13:16:39.000Z</published>
-    <updated>2022-07-31T06:43:13.115Z</updated>
+    <updated>2022-07-31T10:28:04.293Z</updated>
     
     <content type="html"><![CDATA[<p>狂神</p><h1 id="1-基本概念"><a href="#1-基本概念" class="headerlink" title="1.基本概念"></a>1.基本概念</h1><h2 id="1-1-前言"><a href="#1-1-前言" class="headerlink" title="1.1 前言"></a>1.1 前言</h2><p>web开发：</p><ul><li>web，网页的意思，<a href="http://www.baidu.com/">www.baidu.com</a></li><li>静态web<ul><li>html，css</li><li>提供给所有人看的数据始终不会发生变化！</li></ul></li><li>动态web<ul><li>淘宝，几乎是所有的网站；</li><li>提供给所有人看的数据始终会发生变化！每个人在不同时间和不同地点看到的信息各不相同！</li><li>技术栈：Servlet&#x2F;JSp,ASP,PHP</li></ul></li></ul><p>在java，动态web资源开发的技术统称javaWeb；</p><h2 id="1-2、web应用程序"><a href="#1-2、web应用程序" class="headerlink" title="1.2、web应用程序"></a>1.2、web应用程序</h2><p>web应用程序：可以提供浏览器访问的程序；</p><ul><li>a.html、b.html ….多个web资源，这些web资源可以被外界访问，对外界提供服务</li><li>你能访问到的任何一个页面或者资源，都存在于这个世界的某一个角落的计算机上</li><li>URL</li><li>这个统一的web资源会被放在同一个文件夹下，web应用程序 –》tomcat:服务器</li><li>一个web应用由多部分组成（静态web、动态web）<ul><li>html，css，js</li><li>jsp，servlet</li><li>java程序</li><li>jar包</li><li>配置文件（Properties）</li></ul></li></ul><p>web应用程序编写完毕后，弱项提供给外接访问：需要一个服务器来统一管理</p><h2 id="1-3静态web"><a href="#1-3静态web" class="headerlink" title="1.3静态web"></a>1.3静态web</h2><p>request：请求<br>response：响应</p><ul><li><p>*.htm, * .html,这些都是网页的后缀，如果服务器上一直存在这些东西，我们就可以直接进行读取</p></li><li><p>静态web存在的缺点</p><ul><li>web页面无法动态更新，所有用户看到的都是同一个页面<ul><li>轮播图，点击特效：微动态</li><li>javaScript【实际开发，用的最多】</li><li>VBScript</li></ul></li><li>它无法和数据库交互（数据无法持久化，用户无法交互）</li></ul></li></ul><h2 id="1-4-动态web"><a href="#1-4-动态web" class="headerlink" title="1.4 动态web"></a>1.4 动态web</h2><p>页面会动态展示：web的页面展示的效果因人而异</p><img src="https://s1.imagehub.cc/images/2022/07/30/image693c6602c85aa0b0.md.png"><p>缺点：</p><ul><li>加入服务器的动态web资源出现了错误，我们需要重新编写我们的<strong>后台程序</strong>，重新发布<ul><li>停机维护</li></ul></li></ul><p>优点：</p><ul><li>web页面可以动态更新，所有用户都可以看到不同的页面</li><li>它可以与数据库交互（数据持久化:商品信息，用户信息）</li></ul><img src="https://s1.imagehub.cc/images/2022/07/30/imagea007c4ad7c8eb2f1.md.png"><h1 id="2、web服务器"><a href="#2、web服务器" class="headerlink" title="2、web服务器"></a>2、web服务器</h1><h2 id="2-1技术讲解"><a href="#2-1技术讲解" class="headerlink" title="2.1技术讲解"></a>2.1技术讲解</h2><p>ASP，</p><ul><li>微软：国内最早流行的就是ASP</li><li>在HTML中嵌入了VB的脚本，AP+COM；</li><li>在ASP开发中，基本一个页面都是几千行的业务代码，页面极其乱</li><li>维护成本高</li><li>C#</li><li>IIS</li></ul><p>php</p><ul><li>PHP开发速度很快，功能很强大，跨平台，代码很简单</li><li>无法承载大访问量的情况（局限性）</li></ul><p>JSP&#x2F;Servlet:<br>B&#x2F;S:浏览器和服务器</p><p>C&#x2F;S:客户端和服务器</p><ul><li>sun公司主推的B&#x2F;S架构</li><li>基于java语言的（所有的发送四，或者一些开源的组件，都是用java写的）</li><li>可以承载三高问题带来的影响（高并发，高可用，高性能）</li><li>语法像ASP</li></ul><h2 id="2-2-web服务器"><a href="#2-2-web服务器" class="headerlink" title="2.2 web服务器"></a>2.2 web服务器</h2><p>服务器是一种被动的操作，用来处理用户额一些请求和给用户一些相应信息；</p><p>IIS</p><p>微软的；ASP…，windows中自带</p><p>Tomcat</p><p>面向百度编程：</p>]]></content>
     
@@ -235,15 +235,14 @@
     <link href="https://derder1.github.io/2022/07/24/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     <id>https://derder1.github.io/2022/07/24/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
     <published>2022-07-24T06:11:52.000Z</published>
-    <updated>2022-07-27T02:48:22.531Z</updated>
+    <updated>2022-07-31T10:25:04.614Z</updated>
     
-    <content type="html"><![CDATA[<p>彻夜之歌<br>Lycoris Recoil<br>金装的维尔梅</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="彻夜之歌"><a href="#彻夜之歌" class="headerlink" title="彻夜之歌"></a>彻夜之歌</h1><img src="https://pics0.baidu.com/feed/8b13632762d0f7034421080b0eb6fb372797c529.jpeg?token=2590ba135c54f491408db56599299f62"><h1 id="金装的维尔梅"><a href="#金装的维尔梅" class="headerlink" title="金装的维尔梅"></a>金装的维尔梅</h1><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2022%252F0721%252F7ff7dcfcj00rfdm88001zd200u000gwg00it00al.jpg%26thumbnail%3D660x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1661854943&t=7107fc2af5fc89fb95aefad5439fb0d7"><h1 id="Lycoris-Recoil-莉可丽丝"><a href="#Lycoris-Recoil-莉可丽丝" class="headerlink" title="Lycoris Recoil 莉可丽丝"></a>Lycoris Recoil 莉可丽丝</h1> <img src="https://w.wallhaven.cc/full/g7/wallhaven-g7rxxe.jpg">]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;彻夜之歌&lt;br&gt;Lycoris Recoil&lt;br&gt;金装的维尔梅&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;彻夜之歌&quot;&gt;&lt;a href=&quot;#彻夜之歌&quot; class=&quot;headerlink&quot; title=&quot;彻夜之歌&quot;&gt;&lt;/a&gt;彻夜之歌&lt;/h1&gt;&lt;img src=&quot;https://pics0.baidu.com/feed/8b13632762d0f7034421080b0e</summary>
       
     
     
