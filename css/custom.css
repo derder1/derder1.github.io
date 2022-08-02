@@ -71,7 +71,7 @@
 
 */
 
-@keyframes gradientBG {
+/* @keyframes gradientBG {
     0% {
         background-position: 0% 50%;
     }
@@ -88,4 +88,7 @@
     animation: gradientBG 15s ease infinite;
 }
 
-
+ */
+ #web_bg{
+    background-image: url("https://ae01.alicdn.com/kf/H18a4b998752a4ae68b8e85d432a5aef0l.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://s1.imagehub.cc/images/2022/08/02/image392dccadecebe262.png");
+}
