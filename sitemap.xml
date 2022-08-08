@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://derder1.github.io/2022/07/28/java%E9%9F%A9%E9%A1%BA%E5%B9%B3%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2022-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://derder1.github.io/2022/08/07/io/</loc>
+    
+    <lastmod>2022-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://derder1.github.io/friends/index.html</loc>
     
     <lastmod>2022-08-08</lastmod>
@@ -39,15 +57,6 @@
   
   <url>
     <loc>https://derder1.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://derder1.github.io/2022/08/07/io/</loc>
     
     <lastmod>2022-08-08</lastmod>
     
@@ -185,15 +194,6 @@
     <loc>https://derder1.github.io/2022/07/31/html/</loc>
     
     <lastmod>2022-08-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://derder1.github.io/2022/07/28/java%E9%9F%A9%E9%A1%BA%E5%B9%B3%E7%AC%94%E8%AE%B0/</loc>
-    
-    <lastmod>2022-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
