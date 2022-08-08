@@ -1,3 +1,8 @@
+https://derder1.github.io/friends/index.html
+https://derder1.github.io/link/index.html
+https://derder1.github.io/about/index.html
+https://derder1.github.io/data/link.json
+https://derder1.github.io/music/index.html
 https://derder1.github.io/tags/index.html
 https://derder1.github.io/2022/08/07/io/
 https://derder1.github.io/categories/index.html
