@@ -1,5 +1,6 @@
 https://derder1.github.io/2022/08/14/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/
 https://derder1.github.io/2022/07/24/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/
+https://derder1.github.io/2022/08/19/ssm/
 https://derder1.github.io/2022/08/11/java%E5%9F%BA%E7%A1%80/
 https://derder1.github.io/2022/08/04/javaScript/
 https://derder1.github.io/2022/08/04/css/
@@ -48,9 +49,11 @@ https://derder1.github.io/tags/TCP-UDP/
 https://derder1.github.io/tags/ip/
 https://derder1.github.io/tags/%E9%9B%B6%E9%92%B1%E9%80%9A/
 https://derder1.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/
+https://derder1.github.io/tags/ssm/
 https://derder1.github.io/categories/java/
 https://derder1.github.io/categories/%E5%8D%9A%E5%AE%A2/
 https://derder1.github.io/categories/java/leetcode/
 https://derder1.github.io/categories/mysql/
 https://derder1.github.io/categories/java/%E5%9F%BA%E7%A1%80/
 https://derder1.github.io/categories/ui/
+https://derder1.github.io/categories/java/ssm/
