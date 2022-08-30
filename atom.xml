@@ -6,7 +6,7 @@
   <link href="https://derder1.github.io/atom.xml" rel="self"/>
   
   <link href="https://derder1.github.io/"/>
-  <updated>2022-08-28T10:01:37.284Z</updated>
+  <updated>2022-08-30T03:05:02.696Z</updated>
   <id>https://derder1.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://derder1.github.io/2022/08/28/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%AB%98%E7%BA%A7/"/>
     <id>https://derder1.github.io/2022/08/28/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%AB%98%E7%BA%A7/</id>
     <published>2022-08-28T09:52:11.000Z</published>
-    <updated>2022-08-28T10:01:37.284Z</updated>
+    <updated>2022-08-30T03:05:02.696Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="类变量和类方法"><a href="#类变量和类方法" class="headerlink" title="类变量和类方法"></a>类变量和类方法</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="类变量和类方法"><a href="#类变量和类方法" class="headerlink" title="类变量和类方法"></a>类变量和类方法</h1><h2 id="类变量内存布局"><a href="#类变量内存布局" class="headerlink" title="类变量内存布局"></a>类变量内存布局</h2><img src="https://s1.imagehub.cc/images/2022/08/30/image.png"><p>不管static变量在哪里，共识（1）static变量是同一个类所有对象共享（2）static变量，在类加载的时候就生成了。</p><h2 id="类变量"><a href="#类变量" class="headerlink" title="类变量"></a>类变量</h2>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;类变量和类方法&quot;&gt;&lt;a href=&quot;#类变量和类方法&quot; class=&quot;headerlink&quot; title=&quot;类变量和类方法&quot;&gt;&lt;/a&gt;类变量和类方法&lt;/h1&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;类变量和类方法&quot;&gt;&lt;a href=&quot;#类变量和类方法&quot; class=&quot;headerlink&quot; title=&quot;类变量和类方法&quot;&gt;&lt;/a&gt;类变量和类方法&lt;/h1&gt;&lt;h2 id=&quot;类变量内存布局&quot;&gt;&lt;a href=&quot;#类变量内存布局&quot; class=&quot;headerlink</summary>
       
     
     
