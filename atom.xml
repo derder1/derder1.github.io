@@ -6,7 +6,7 @@
   <link href="https://derder1.github.io/atom.xml" rel="self"/>
   
   <link href="https://derder1.github.io/"/>
-  <updated>2022-08-30T03:05:02.696Z</updated>
+  <updated>2022-08-30T03:29:57.580Z</updated>
   <id>https://derder1.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://derder1.github.io/2022/08/28/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%AB%98%E7%BA%A7/"/>
     <id>https://derder1.github.io/2022/08/28/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%AB%98%E7%BA%A7/</id>
     <published>2022-08-28T09:52:11.000Z</published>
-    <updated>2022-08-30T03:05:02.696Z</updated>
+    <updated>2022-08-30T03:29:57.580Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="类变量和类方法"><a href="#类变量和类方法" class="headerlink" title="类变量和类方法"></a>类变量和类方法</h1><h2 id="类变量内存布局"><a href="#类变量内存布局" class="headerlink" title="类变量内存布局"></a>类变量内存布局</h2><img src="https://s1.imagehub.cc/images/2022/08/30/image.png"><p>不管static变量在哪里，共识（1）static变量是同一个类所有对象共享（2）static变量，在类加载的时候就生成了。</p><h2 id="类变量"><a href="#类变量" class="headerlink" title="类变量"></a>类变量</h2>]]></content>
+    <content type="html"><![CDATA[<h1 id="类变量和类方法"><a href="#类变量和类方法" class="headerlink" title="类变量和类方法"></a>类变量和类方法</h1><h2 id="类变量内存布局"><a href="#类变量内存布局" class="headerlink" title="类变量内存布局"></a>类变量内存布局</h2><img src="https://s1.imagehub.cc/images/2022/08/30/image.png"><p>不管static变量在哪里，共识（1）static变量是同一个类所有对象共享（2）static变量，在类加载的时候就生成了。</p><h2 id="类变量"><a href="#类变量" class="headerlink" title="类变量"></a>类变量</h2><p>类变量也叫静态变量&#x2F;静态属性，是该类的所有对象共享的变量，任何一个该类的对象去访问它时，取到的都是相同的值，同样任何一个该类的对象去修改它时，修改的也是同一个变量</p><pre><code>定义语法访问修饰符 static 数据类型 变量名;（推荐）static 访问修饰符 数据类型 变量名;如何访问类变量类名.类变量名或者 对象名.类变量名推荐使用 类名.类变量名</code></pre><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">VisitStatic</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">        System.out.println(A.name);</span><br><span class="line">        <span class="type">A</span> <span class="variable">a</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">A</span>();</span><br><span class="line">        <span class="comment">//对象名.类变量名</span></span><br><span class="line">        System.out.println(a.name);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">class</span> <span class="title class_">A</span>&#123;</span><br><span class="line">    <span class="comment">//类变量的访问，必须遵守 相关的访问权限</span></span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="type">String</span> <span class="variable">name</span> <span class="operator">=</span> <span class="string">&quot;刘&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="细节"><a href="#细节" class="headerlink" title="细节"></a>细节</h3><ol><li>当某个类的所有对象都共享一个变量时，考虑使用类变量（静态变量）比如定义学生类，统计学生交多少钱。<br>类变量与实例变量区别</li><li>类变量是该类的所有对象共享的，而实例变量是每个对象独享的。</li><li>类变量遵循访问修饰符限制的访问权限</li><li>类变量类加载时就创建了，即使没有创建对象，只要类加载了，就可以使用类变量了</li><li>类变量生命周期随着类的加载开始，随着类的消亡而销毁，与对象无关</li><li>实例变量（普通属性）不能通过类名.变量名方式访问</li></ol><h2 id="类方法"><a href="#类方法" class="headerlink" title="类方法"></a>类方法</h2><pre><code>类方法也叫静态方法访问修饰符 static 数据返回类型 方法名（）&#123;&#125;【推荐】static 访问修饰符 数据返回类型 方法名（）&#123;&#125;</code></pre>]]></content>
     
     
       
