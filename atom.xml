@@ -377,9 +377,9 @@
     <link href="https://derder1.github.io/2022/07/29/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     <id>https://derder1.github.io/2022/07/29/%E9%9D%A2%E8%AF%95%E9%A2%98/</id>
     <published>2022-07-29T14:17:59.000Z</published>
-    <updated>2022-09-03T05:27:53.620Z</updated>
+    <updated>2022-09-07T08:24:11.979Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="1-JDK和JRE有什么区别"><a href="#1-JDK和JRE有什么区别" class="headerlink" title="1. JDK和JRE有什么区别"></a>1. JDK和JRE有什么区别</h1><ul><li>JDk: Java Development Kit 的简称，java开发工具包，提供了java的开发环境和运行环境</li><li>JRE：Java Runtime Environment 的简称，java运行环境，为java的运行提供了所需环境。wa</li></ul><h1 id="2-equals和-x3D-x3D-的区别"><a href="#2-equals和-x3D-x3D-的区别" class="headerlink" title="2. equals和&#x3D;&#x3D;的区别"></a>2. equals和&#x3D;&#x3D;的区别</h1><p>&#x3D;&#x3D;解读</p><ul><li><p>基本类型：比较的是值是否相同；</p></li><li><p>引用类型：比较的是引用是否相同；</p></li></ul><p>equals解读</p><ul><li>equals 本质上就是 &#x3D;&#x3D;，只不过 String 和 Integer 等重写了 equals 方法，把它变成了值比较。</li></ul><p>总结：  &#x3D;&#x3D; 对于基本类型来说是值比较，对于引用类型来说是比较的是引用；而 equals 默认情况下是引用比较，只是很多类重新了 equals 方法，比如 String、Integer 等把它变成了值比较，所以一般情况下 equals 比较的是值是否相等。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="1-JDK和JRE有什么区别"><a href="#1-JDK和JRE有什么区别" class="headerlink" title="1. JDK和JRE有什么区别"></a>1. JDK和JRE有什么区别</h1><ul><li>JDk: Java Development Kit 的简称，java开发工具包，提供了java的开发环境和运行环境</li><li>JRE：Java Runtime Environment 的简称，java运行环境，为java的运行提供了所需环境。wa</li></ul><h1 id="2-equals和-x3D-x3D-的区别"><a href="#2-equals和-x3D-x3D-的区别" class="headerlink" title="2. equals和&#x3D;&#x3D;的区别"></a>2. equals和&#x3D;&#x3D;的区别</h1><p>&#x3D;&#x3D;解读</p><ul><li><p>基本类型：比较的是值是否相同；</p></li><li><p>引用类型：比较的是引用是否相同；</p></li></ul><p>equals解读</p><ul><li>equals 本质上就是 &#x3D;&#x3D;，只不过 String 和 Integer 等重写了 equals 方法，把它变成了值比较。</li></ul><p>总结：  &#x3D;&#x3D; 对于基本类型来说是值比较，对于引用类型来说是比较的是引用；而 equals 默认情况下是引用比较，只是很多类重新了 equals 方法，比如 String、Integer 等把它变成了值比较，所以一般情况下 equals 比较的是值是否相等。</p><h1 id="3"><a href="#3" class="headerlink" title="3"></a>3</h1><img src="https://s1.imagehub.cc/images/2022/09/03/image.png">]]></content>
     
     
       
