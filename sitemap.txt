@@ -1,3 +1,4 @@
+https://derder1.github.io/2022/07/31/html/
 https://derder1.github.io/2022/08/11/java%E5%9F%BA%E7%A1%80/
 https://derder1.github.io/2023/04/19/%E6%99%BA%E6%85%A7%E6%A0%A1%E5%9B%AD/
 https://derder1.github.io/2022/08/28/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%AB%98%E7%BA%A7/
@@ -9,16 +10,10 @@ https://derder1.github.io/2022/07/28/%E7%BB%83%E4%B9%A0%E9%A2%98/
 https://derder1.github.io/2022/08/01/javaweb/
 https://derder1.github.io/2022/07/25/java%E7%8B%82%E7%A5%9E/
 https://derder1.github.io/2022/08/10/ssm/
-https://derder1.github.io/2022/08/04/javaScript/
-https://derder1.github.io/2022/08/04/css/
-https://derder1.github.io/2022/07/31/html/
-https://derder1.github.io/2022/07/26/%E9%9B%B6%E9%92%B1%E9%80%9A/
 https://derder1.github.io/2022/08/07/%E6%9E%9A%E4%B8%BE/
 https://derder1.github.io/2022/07/27/%E9%9B%86%E5%90%88/
 https://derder1.github.io/2022/08/01/MySQL/
-https://derder1.github.io/2022/07/05/%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%AC%94%E8%AE%B0/
 https://derder1.github.io/2022/07/28/mybatis/
-https://derder1.github.io/2022/08/09/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/
 https://derder1.github.io/friends/index.html
 https://derder1.github.io/link/index.html
 https://derder1.github.io/about/index.html
@@ -31,10 +26,8 @@ https://derder1.github.io/2022/08/07/%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6/
 https://derder1.github.io/2022/07/24/%E6%B3%A8%E8%A7%A3%E5%92%8C%E5%8F%8D%E5%B0%84/
 https://derder1.github.io/
 https://derder1.github.io/tags/MySQL/
-https://derder1.github.io/tags/css/
 https://derder1.github.io/tags/html/
 https://derder1.github.io/tags/File/
-https://derder1.github.io/tags/javaScript/
 https://derder1.github.io/tags/javaweb/
 https://derder1.github.io/tags/java/
 https://derder1.github.io/tags/leetcode/
@@ -46,12 +39,9 @@ https://derder1.github.io/tags/%E6%9E%9A%E4%B8%BE/
 https://derder1.github.io/tags/logback/
 https://derder1.github.io/tags/%E6%B3%A8%E8%A7%A3%E5%8F%8D%E5%B0%84/
 https://derder1.github.io/tags/java%E7%BB%83%E4%B9%A0%E9%A2%98/
-https://derder1.github.io/tags/TCP-UDP/
-https://derder1.github.io/tags/ip/
 https://derder1.github.io/tags/%E9%9B%86%E5%90%88/
 https://derder1.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/
 https://derder1.github.io/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/
-https://derder1.github.io/tags/%E9%9B%B6%E9%92%B1%E9%80%9A/
 https://derder1.github.io/tags/%E6%AF%95%E8%AE%BE/
 https://derder1.github.io/categories/mysql/
 https://derder1.github.io/categories/ui/
