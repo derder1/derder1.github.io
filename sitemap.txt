@@ -1,15 +1,14 @@
+https://derder1.github.io/2022/08/10/io/
+https://derder1.github.io/2022/08/11/java%E5%9F%BA%E7%A1%80/
+https://derder1.github.io/2022/08/14/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/
+https://derder1.github.io/2022/08/28/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%AB%98%E7%BA%A7/
 https://derder1.github.io/2023/07/30/%E9%BB%91%E9%A9%ACjavaweb/
 https://derder1.github.io/2022/07/31/html/
-https://derder1.github.io/2022/08/11/java%E5%9F%BA%E7%A1%80/
-https://derder1.github.io/2022/08/28/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%AB%98%E7%BA%A7/
 https://derder1.github.io/2022/07/24/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/
-https://derder1.github.io/2022/08/14/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/
 https://derder1.github.io/2022/07/29/%E9%9D%A2%E8%AF%95%E9%A2%98/
-https://derder1.github.io/2022/08/10/io/
 https://derder1.github.io/2022/07/28/%E7%BB%83%E4%B9%A0%E9%A2%98/
 https://derder1.github.io/2022/08/01/javaweb/
 https://derder1.github.io/2022/07/25/java%E7%8B%82%E7%A5%9E/
-https://derder1.github.io/2022/08/10/ssm/
 https://derder1.github.io/2022/08/07/%E6%9E%9A%E4%B8%BE/
 https://derder1.github.io/2022/07/27/%E9%9B%86%E5%90%88/
 https://derder1.github.io/2022/08/01/MySQL/
@@ -33,7 +32,6 @@ https://derder1.github.io/tags/java/
 https://derder1.github.io/tags/leetcode/
 https://derder1.github.io/tags/mybatis/
 https://derder1.github.io/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/
-https://derder1.github.io/tags/ssm/
 https://derder1.github.io/tags/butterfly/
 https://derder1.github.io/tags/%E6%9E%9A%E4%B8%BE/
 https://derder1.github.io/tags/logback/
@@ -47,5 +45,4 @@ https://derder1.github.io/categories/ui/
 https://derder1.github.io/categories/java/
 https://derder1.github.io/categories/java/leetcode/
 https://derder1.github.io/categories/java/%E5%9F%BA%E7%A1%80/
-https://derder1.github.io/categories/java/ssm/
 https://derder1.github.io/categories/%E5%8D%9A%E5%AE%A2/
