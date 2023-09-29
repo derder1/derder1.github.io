@@ -450,15 +450,16 @@
     <link href="https://derder1.github.io/2022/07/24/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     <id>https://derder1.github.io/2022/07/24/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
     <published>2022-07-24T06:11:52.000Z</published>
-    <updated>2022-09-17T13:19:35.821Z</updated>
+    <updated>2023-09-29T09:30:42.336Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="文章添加字数统计"><a href="#文章添加字数统计" class="headerlink" title="文章添加字数统计"></a>文章添加字数统计</h1><ol><li>安装依赖<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cnpm install hexo-wordcount --save</span><br><span class="line"></span><br></pre></td></tr></table></figure></li><li>在主题目录下的_config.yml文件进行配置<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">wordcount:</span><br><span class="line">  enable: true</span><br></pre></td></tr></table></figure></li></ol><h1 id="github-io博客域名"><a href="#github-io博客域名" class="headerlink" title="github.io博客域名"></a>github.io博客域名</h1><ol><li>现在Freenom上免费申请一个域名,在cloudflare上面进行解析</li><li>在github上的xxx.github.io仓库<br>Settings -&gt; Pages  -&gt; Custom domain</li></ol><img src="https://s1.imagehub.cc/images/2022/08/29/image927e5382d1c2e121.png"><ol start="4"><li>在博客文件的source目录下创建CNAME文件，没有后缀名。 输入自己定义的域名</li></ol><h1 id="最难不过坚持。"><a href="#最难不过坚持。" class="headerlink" title="最难不过坚持。"></a>最难不过坚持。</h1><h1 id="给自己加deadline"><a href="#给自己加deadline" class="headerlink" title="给自己加deadline"></a>给自己加deadline</h1><h1 id="失败并不可怕，可怕的是因为害怕失败而不敢开始"><a href="#失败并不可怕，可怕的是因为害怕失败而不敢开始" class="headerlink" title="失败并不可怕，可怕的是因为害怕失败而不敢开始"></a>失败并不可怕，可怕的是因为害怕失败而不敢开始</h1>]]></content>
+    <content type="html"><![CDATA[<p>1</p><h1 id="文章添加字数统计"><a href="#文章添加字数统计" class="headerlink" title="文章添加字数统计"></a>文章添加字数统计</h1><ol><li>安装依赖<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cnpm install hexo-wordcount --save</span><br><span class="line"></span><br></pre></td></tr></table></figure></li><li>在主题目录下的_config.yml文件进行配置<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">wordcount:</span><br><span class="line">  enable: true</span><br></pre></td></tr></table></figure></li></ol><h1 id="github-io博客域名"><a href="#github-io博客域名" class="headerlink" title="github.io博客域名"></a>github.io博客域名</h1><ol><li>现在Freenom上免费申请一个域名,在cloudflare上面进行解析</li><li>在github上的xxx.github.io仓库<br>Settings -&gt; Pages  -&gt; Custom domain</li></ol><img src="https://s1.imagehub.cc/images/2022/08/29/image927e5382d1c2e121.png"><ol start="4"><li>在博客文件的source目录下创建CNAME文件，没有后缀名。 输入自己定义的域名</li></ol><h1 id="最难不过坚持。"><a href="#最难不过坚持。" class="headerlink" title="最难不过坚持。"></a>最难不过坚持。</h1><h1 id="给自己加deadline"><a href="#给自己加deadline" class="headerlink" title="给自己加deadline"></a>给自己加deadline</h1><h1 id="失败并不可怕，可怕的是因为害怕失败而不敢开始"><a href="#失败并不可怕，可怕的是因为害怕失败而不敢开始" class="headerlink" title="失败并不可怕，可怕的是因为害怕失败而不敢开始"></a>失败并不可怕，可怕的是因为害怕失败而不敢开始</h1>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;文章添加字数统计&quot;&gt;&lt;a href=&quot;#文章添加字数统计&quot; class=&quot;headerlink&quot; title=&quot;文章添加字数统计&quot;&gt;&lt;/a&gt;文章添加字数统计&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;安装依赖&lt;figure class=&quot;highlight plaintext&quot;&gt;</summary>
+    <summary type="html">&lt;p&gt;1&lt;/p&gt;
+&lt;h1 id=&quot;文章添加字数统计&quot;&gt;&lt;a href=&quot;#文章添加字数统计&quot; class=&quot;headerlink&quot; title=&quot;文章添加字数统计&quot;&gt;&lt;/a&gt;文章添加字数统计&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;安装依赖&lt;figure class=&quot;highlight pl</summary>
       
     
     
